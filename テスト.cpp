@@ -1,4 +1,6 @@
-void testfunction
+ï»¿void testfunction
 {
-	printf("‚â‚Á‚½‚ºA“ŠeÒ");
+	printf("ã‚„ã£ãŸãœã€æŠ•ç¨¿è€…");
+
+ã†ã‚“ã“
 }
